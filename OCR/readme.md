@@ -1,4 +1,4 @@
-OCR(optical character regognition)
+ # OCR(optical character regognition)
 
 
 Pyton code for OCR from PDF and JPG file.
