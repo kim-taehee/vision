@@ -14,4 +14,6 @@ C:\Program Files\Anaconda3\Lib\site-packages;
 C:\Tesseract-OCR;
 C:\Program Files (x86)\Tesseract-OCR;
 C:\Program Files\ImageMagick-7.0.8-Q16;
-C:\Program Files\Anaconda3\Library\bin
+C:\Program Files\Anaconda3\Library\bin  
+
+를 추가해 주세요
