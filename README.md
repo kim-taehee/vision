@@ -14,7 +14,7 @@ for f in s:
     print(f[48:50])
     print(i)
 
-# ch09,14의 폴더를 복사하고 각각의 폴더에서 아래의 코드를 이용해 필요한 사진만 
+# ch09,14의 폴더를 복사하고 각각의 폴더에서 아래의 코드를 이용해 필요한 사진만  
 import os
 import glob
 import re
